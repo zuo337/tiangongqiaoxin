@@ -22,11 +22,11 @@
 >此功能将展示机器人尺寸在规则限制范围之内<br>（展示直尺测量工具的测量结果）
 
 
-![输入图片说明](D:/Down/QQDown/5582D099E703B5AA4851ECEFA2CF1D5E.jpg)
+![尺寸测量-1](images/size-1.jpg)
 
-![输入图片说明](D:/Down/QQDown/9E3CCD5F7634CC513592DDAE9E463068.jpg)
+![尺寸测量-2](images/size-2.jpg)
 
-![输入图片说明](D:/Down/QQDown/E85914D275498C088DF9F1351F2E6289.jpg)
+![尺寸测量-3](images/size-3.jpg)
 <br>
 
 ##  结构稳定性
